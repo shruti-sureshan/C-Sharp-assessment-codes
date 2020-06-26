@@ -6,6 +6,7 @@ accountNo : int
 balance : double
 accountType : string
 counter :int static
+
 Define parameterized constructor with two parameters to initialize balance and accountType. accountNo should be initialized by incrementing counter.
 •	Implement the below operations:
 •	void depositAmount(double amount)
