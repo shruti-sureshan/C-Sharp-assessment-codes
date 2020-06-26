@@ -1,4 +1,4 @@
-Problem Statement - Account Details
+# Problem Statement - Account Details
 Complete the class Account and AccountDetails as per the below requirement
 class Account :
 Create the following instance/static members:
@@ -33,5 +33,3 @@ Output:
 New Balance : 126.00
 [Acct No : 2, Type : Current, Balance : 200]
 New Balance : 250.50
-
-C:\Users\SHRUTI SURESHAN\Desktop>
