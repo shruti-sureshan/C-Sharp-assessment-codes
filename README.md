@@ -10,5 +10,5 @@ C# is a programming language developed by Microsoft. It runs on the .NET Framewo
 •	Inheritance<br/>
 •	Polymorphism<br/>
 
-You can also connect with me on LinkedIn or can contact me via gmail. Happy Coding!!
+
 
